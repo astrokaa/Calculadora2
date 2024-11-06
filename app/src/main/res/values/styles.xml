@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="botonrecto" parent="Widget.AppCompat.Button">
+        <item name="android:textColor">#FFA000</item>
+        <item name="android:backgroundTint">#6200EE</item>
+        <item name="android:padding">10dp</item>
+        <item name="android:textSize">18sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:shape">rectangle</item>
+    </style>
+</resources>
